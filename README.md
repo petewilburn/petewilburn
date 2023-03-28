@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Peter Wilburn
+- Graduate Student At Arizona State University
+- Apparently my bio isn't good enough for github education. I don't know what to tell them. 
 - 👀 I’m interested in software engineering, machine learning, data science, architecture.
 - 🌱 I’m currently learning algorithms, machine learning, AWS. 
 - 💞️ I’m looking to collaborate on startups, product management, open source. 
