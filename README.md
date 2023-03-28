@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @petewilburn
+- 👋 Hi, I’m Peter Wilburn
 - 👀 I’m interested in software engineering, machine learning, data science, architecture.
 - 🌱 I’m currently learning algorithms, machine learning, AWS. 
 - 💞️ I’m looking to collaborate on startups, product management, open source. 
