@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Peter Wilburn
-- Graduate Student At Arizona State University
-- Apparently my profile and bio isn't good enough for github education. I don't know what to tell them.
-- Github education blocks me because I'm not near the ASU campus. This is 2023. Online? FFS.
 - 👀 I’m interested in software engineering, machine learning, data science, architecture.
 - 🌱 I’m currently learning algorithms, machine learning, AWS. 
 - 💞️ I’m looking to collaborate on startups, product management, open source. 
