@@ -1,4 +1,4 @@
-Hi, I’m Pete Wilburn
+Hi, I’m Pete Wilburn.
 Here for the repos.
 Interests:
 Family
